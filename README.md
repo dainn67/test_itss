@@ -1,4 +1,4 @@
-# TKXDPM.VN.20231-02
+# ISD.ICT.20232.04
 Managing Capstone's project in the Software Design and Construction course in the 2023.1 semester.
 
 ## Table of contents
@@ -14,10 +14,11 @@ Managing Capstone's project in the Software Design and Construction course in th
 
 | Name                   | Role        |
 | :-------------         | :---------- |
-| Trần Xuân Bách         | Team Leader |
-| Nguyễn Ngọc Quỳnh Anh  | Member      |
-| Nguyễn Vũ Thục Anh     | Member      |
-| Vũ Đức Anh             | Member      |
+| Phan Công Đại          | Team Leader |
+| Nguyễn Như Đại         | Member      |
+| Đặng Nam Cường         | Member      |
+| Nguyễn Thành Đạt       | Member      |
+| Nguyễn Mạnh Cường      |  Member      |
 
 
 ## What's included
